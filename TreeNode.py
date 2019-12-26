@@ -38,3 +38,8 @@ second_child.add_child(third_child)
 #                     (Marketing Assistant)
 
 root.traverse()
+#Because of using pop(), the output will be 
+# CEO
+# Head of Marketing
+# Marketing Assistant
+# Vice-President

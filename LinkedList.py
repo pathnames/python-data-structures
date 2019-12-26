@@ -85,5 +85,3 @@ ll.remove_node(1)
 print(ll.stringify_list())
 #Output:
 #2
-
-
